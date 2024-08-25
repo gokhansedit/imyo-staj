@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "*.embeddedhtml": "html",
+        "string": "cpp",
+        "iostream": "cpp",
+        "array": "cpp",
+        "string_view": "cpp",
+        "functional": "cpp",
+        "eeprom": "c",
+        "deque": "cpp",
+        "unordered_map": "cpp",
+        "unordered_set": "cpp",
+        "vector": "cpp",
+        "initializer_list": "cpp",
+        "*.tcc": "cpp"
+    }
+}
